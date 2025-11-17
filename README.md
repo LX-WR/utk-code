@@ -4,7 +4,7 @@
 
 # Shhhh....quiet!
 UltraTuxKart is a fork of Supertuxkart, an arcade racing game, which I plan to fuck with!
-I need you to keep this a secret and to NOT tell anyone because I only want the STK community to know this exists when I'm nearly finished :}
+I need you to keep this a secret and to NOT tell anyone, because I only want the STK community to know this exists when I'm nearly finished :}
 In order to run this (possibly more demanding) game:
 * You should have a dual-core CPU that's running at 1 GHz or faster.
 * You'll need at least 512 MB of free VRAM (video memory).
