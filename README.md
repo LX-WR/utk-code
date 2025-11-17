@@ -5,12 +5,12 @@
 # Shhhh....quiet!
 UltraTuxKart is a fork of Supertuxkart, an arcade racing game, which I plan to fuck with!
 I need you to keep this a secret and to NOT tell anyone, because I only want the STK community to know this exists when I'm nearly finished :}
-In order to run this (possibly more demanding) game:
-* You should have a dual-core CPU that's running at 1 GHz or faster.
-* You'll need at least 512 MB of free VRAM (video memory).
-* System memory: 1 GB
-* Minimum disk space: 800 MB
-* Ideally, you'll want a joystick with at least 6 buttons :}
+In order to run this (possibly more demanding) game, you'll want:
+* A 2-core CPU running @1GHZ (4-core+ @2GHZ+ for comfort)
+* At least 512mb of free VRAM (1GB+ for comfort)
+* At least 1GB of free RAM (1.5GB for comfort)
+* At least 1GB of free disk space (2GB for comfort)
+* A keyboard or other input device that can support simultaneous 3-button input (more button capability for comfort)
 
 ## License
 The software is released under the GNU General Public License (GPL, as in the regualr STK binaries) which can be found [`here`](/COPYING), in the same directory as this file.
